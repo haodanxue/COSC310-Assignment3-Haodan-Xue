@@ -1,5 +1,5 @@
-# COSC-310-Group-6
-Assignment for COSC 310 Group 6 Assignment 3
+# COSC 310 - Haodan Xue
+Assignment 3 for COSC 310
 
 # Table of Contents
 ```
@@ -22,7 +22,10 @@ Assignment for COSC 310 Group 6 Assignment 3
 # Brief description
 On the basis of the previous assignment, I added a function of doing a psychological test to do a psychological test for a person, in order to determine whether or not his/her mental state during the current period is positive or negative. In addition to GUI, Stanford NLP and WordNet toolkits are also used.
 
-![DFD](https://github.com/haodanxue/COSC310-Assignment3-Haodan-Xue/blob/master/Level0_DFD.jpg)
+![UML](https://github.com/haodanxue/COSC310-Assignment3-Haodan-Xue/blob/1th-feature/UML_Assignment3.jpg)
+
+![DFD](https://github.com/haodanxue/COSC310-Assignment3-Haodan-Xue/blob/1th-feature/Level0_DFD_Haodan.jpg)
+
 
 # Function List and System Improvement
 ```
@@ -59,7 +62,17 @@ If the answer does not contain the words appeared in the word.txt, this means th
 •   Then start the psychological test. Whenever asking a question, the corresponding answer will be analyzed by Sentiment Analysis function to determine whether the emotion of the answer is positive or negative. After the final test, the emotion of the user will be eventually determined based on the analysis result. 
 ```
 
-=======
->>>>>>> branch 'master' of git@github.com:haodanxue/COSC310-Assignment3-Haodan-Xue.git
+# Sample Output
+![](https://github.com/haodanxue/COSC310-Assignment3-Haodan-Xue/blob/1th-feature/A3_SampleOutput1.png)
 
+![](https://github.com/haodanxue/COSC310-Assignment3-Haodan-Xue/blob/1th-feature/A3_SampleOutput2.png)
+# Development schedule
+![](https://github.com/haodanxue/COSC310-Assignment3-Haodan-Xue/blob/1th-feature/A3__GanttChart1.png)
+
+![](https://github.com/haodanxue/COSC310-Assignment3-Haodan-Xue/blob/1th-feature/A3__GanttChart2.png)
+
+=======
+>>>>>>> branch '1th-feature' 
+
+https://github.com/haodanxue/COSC310-Assignment3-Haodan-Xue/tree/1th-feature
 
