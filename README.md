@@ -67,12 +67,12 @@ If the answer does not contain the words appeared in the word.txt, this means th
 
 ![](https://github.com/haodanxue/COSC310-Assignment3-Haodan-Xue/blob/1th-feature/A3_SampleOutput2.png)
 # Development schedule
-![](https://github.com/haodanxue/COSC310-Assignment3-Haodan-Xue/blob/1th-feature/A3__GanttChart1.png)
+![](https://github.com/haodanxue/COSC310-Assignment3-Haodan-Xue/blob/master/A3__GanttChart1.png)
 
-![](https://github.com/haodanxue/COSC310-Assignment3-Haodan-Xue/blob/1th-feature/A3__GanttChart2.png)
+![](https://github.com/haodanxue/COSC310-Assignment3-Haodan-Xue/blob/master/A3__GanttChart2.png)
 
 =======
->>>>>>> branch '1th-feature' 
+>>>>>>> branch '2th-feature' 
 
-https://github.com/haodanxue/COSC310-Assignment3-Haodan-Xue/tree/1th-feature
+https://github.com/haodanxue/COSC310-Assignment3-Haodan-Xue/tree/2th-feature
 
